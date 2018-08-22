@@ -1,2 +1,2 @@
 # rest-panda-intelij-import
-Intelij Plugin for Rest Panda project Designer
+Intelij Plugin for to import Rest Panda projects
